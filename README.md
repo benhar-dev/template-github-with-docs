@@ -17,17 +17,10 @@ in perpetuity.
 ## Overview 
 This is a simple example showing ...    
 
-## Getting Started
+## Documentation
+The documentation for this project can be found [here](https://benhar-dev.github.io/template-github-with-docs/). 
 
-## Screenshot
-![image](./docs/Images/Screenshot.png)
-
-## Code Snippets
-The following section of code is ...
-
-```javascript
-console.log('hello world');
-```
+!!! Rememeber to enable pages on the repo settings, and to change the link above to the actual repo page !!!
 
 ## Versions
 * TcXaeShell 3.1.4024.17
