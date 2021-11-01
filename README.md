@@ -23,8 +23,8 @@ The documentation for this project can be found [here](https://benhar-dev.github
 !!! Rememeber to enable pages on the repo settings, and to change the link above to the actual repo page !!!
 
 ## Versions
-* TcXaeShell 3.1.4024.17
-* TE2000 1.12.746.3
+* TcXaeShell 3.1.4024.22
+* TE2000 1.12.750.1
 
 ## Need more help?
 Please visit http://beckhoff.com/ for further guides
