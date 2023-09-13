@@ -1,6 +1,7 @@
-# Simple example of ...
+# Title goes here
 
 ## Disclaimer
+
 This is a personal guide not a peer reviewed journal or a sponsored publication. We make
 no representations as to accuracy, completeness, correctness, suitability, or validity of any
 information and will not be liable for any errors, omissions, or delays in this information or any
@@ -14,17 +15,49 @@ other than the author(s) and, since we are critically thinking human beings, the
 always subject to change, revision, and rethinking at any time. Please do not hold us to them
 in perpetuity.
 
-## Overview 
-This is a simple example showing ...    
+## Overview
+
+Overview goes here
+
+## Screenshot
+
+![image](./docs/images/Screenshot.png)
 
 ## Documentation
 The documentation for this project can be found [here](https://benhar-dev.github.io/template-github-with-docs/). 
 
 !!! Rememeber to enable pages on the repo settings, and to change the link above to the actual repo page !!!
+![image](./docs/images/Settings.png)
+
+To run the documentation locally you will need to have docsify installed
+```
+docsify init ./docs
+```
+
+Then serve the docs folder
+```
+docsify serve docs
+```
+
+## Code Snippets
+Infomation about the code snippet goes here
+
+```
+PROGRAM MAIN
+VAR
+	// example
+	foobar : STRING;
+END_VAR
+```
+
+```
+foobar := "HelloWorld";
+```
 
 ## Versions
-* TcXaeShell 3.1.4024.22
-* TE2000 1.12.750.1
+
+- TcXaeShell 3.1.4024.50
 
 ## Need more help?
+
 Please visit http://beckhoff.com/ for further guides
